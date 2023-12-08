@@ -1,5 +1,9 @@
 # Rocket Landing Optimization Using Model Predictive Control (MPC)
 
+## Disclaimer
+This project is not yet complete, but rather a work in progress. I attempted this project with my very limited knowledge of python and mcahine learning as best I could. The code does not run because I got stuck running into many errors when attempting to run it. I hope I can still receive some partial credit for the effort put forth.
+Thank you for your understanding.
+
 ## Project Overview
 
 This project focuses on optimizing the fuel consumption of a rocket during its landing phase using Model Predictive Control (MPC). The primary goal is to safely land the rocket from a certain height while minimizing the amount of fuel used. This is achieved by dynamically adjusting the rocket's thrust over time based on the current state (height and velocity) and the desired final state (landing on the ground with minimal velocity).
